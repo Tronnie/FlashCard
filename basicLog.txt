@@ -1,0 +1,75 @@
+
+ Question: Are shrimp shells safe to eat?? Answers: I think so. I do it all the time.
+ 
+ Question: Is cerulean a color? Answers: yes
+
+ Question: Who was the 44th president of the United States? Answers: Barack Obama
+
+ Question: What time is it? Answers: The time is 8:45pm
+ Question: What time is it? Answers: The time is 8:46pm Date: undefined
+ Question: What time is it? Answers: The time is 8:49pm
+ Question: What time is it? Answers: The time is 8:51pm
+ Question: What time is it? Answers: The time is 8:52pm
+
+ Question: What time is it?
+ Answer: The time is 8:54pm
+
+ Question: What time is it?
+ Answer: The time is 9:09pm
+
+ Question: What time is it?
+ Answer: The time is 9:09pm
+
+ Question: front
+ Answer: back
+
+ Question: front
+ Answer: back
+
+ Question: Purple
+ Answer: is my favorite color
+
+ Question: Purple
+ Answer: is my favorite color
+
+ Question: Purple
+ Answer: is my favorite color
+
+ Answer: Purple
+ Question: is my favorite color?
+
+ Answer: Red
+ Question: is my favorite color?
+
+ Answer: Red
+ Question: is my favorite color?
+
+ Answer: Green
+ Question: is my favorite color?
+
+ Answer: Yellow
+ Question: is my favorite color?
+
+ Answer: Yellow
+ Question: is my favorite color?
+
+ Answer: Yellow
+ Question: is my favorite color?
+
+ Answer: Gray
+ Question: is my favorite color?
+
+ Answer: Marigold
+ Question: is my favorite color?
+
+ Answer: Marigold
+ Question: is my favorite color?
+
+ Answer: undefined
+ Question: undefined?
+
+ Answer: 25
+ Question: is my favorite number?
+
+ Answer: 99
+ Question: is the number of red balloons?
