@@ -9,18 +9,18 @@ var BasicCard = function(front, back) {
 } //<--BasicCard
 
 //create the printInfo method and applies it to all basicCard objects.
-BasicCard.prototype.printInfo = function(){
-  console.log("This is the BACK of the basic flashcard-->  " + this.front);
-  console.log("This is the FRONT of the basic flashcard-->  " +  "______" + this.back  + "?" + ("\n________________________________________________\n"));
-};
+// BasicCard.prototype.printInfo = function(){
+//   console.log("This is the BACK of the basic flashcard-->  " + this.front);
+//   console.log("This is the FRONT of the basic flashcard-->  " +  "______" + this.back  + "?" + ("\n________________________________________________\n"));
+// };
 
-//enter command line arguments to create flash cards instead of hard coding them
-var basicInput = new BasicCard (process.argv[3], process.argv[4]);
-//create a log of all of the flashcards entered by the user
-var logTxt = "\n Answer: " + basicInput.front + "\n Question: " + basicInput.back + "?" + "\n";
-fs.appendFile("basicLog.txt", logTxt);
-//prints on our shell
-basicInput.printInfo();
+// //enter command line arguments to create flash cards instead of hard coding them
+// var basicInput = new BasicCard (process.argv[3], process.argv[4]);
+// //create a log of all of the flashcards entered by the user
+// var logTxt = "\n Answer: " + basicInput.front + "\n Question: " + basicInput.back + "?" + "\n";
+// fs.appendFile("basicLog.txt", logTxt);
+// //prints on our shell
+// basicInput.printInfo();
 //export the function:
 module.exports = BasicCard;
 // module.exports = basicInput;
