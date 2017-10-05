@@ -1,2 +1,2 @@
 # FlashCard
-A flashcard generator for educational purposes.
+A flashcard generator for educational purposes brought to you by gg.
